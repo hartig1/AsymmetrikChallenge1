@@ -1,6 +1,7 @@
 clone the repo or download and unzip to a folder
 requires names.csv to be in the directory
 main.py contains a driver that uses the examples from the webpage
+BusinessCardOCR.py contains the class and functions
 Written using python 2.7
 To use your own test files 'import BusinessCardOCR'
 create a card with 'x = BusinessCardOCR.ContactInfo(y)' where x is the resulting object, and y is the string from OCR
